@@ -2,4 +2,4 @@ pandas
 numpy
 alpha_vantage
 tensorflow
-sklearn
+flask
