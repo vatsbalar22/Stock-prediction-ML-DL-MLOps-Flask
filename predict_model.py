@@ -1,6 +1,4 @@
 # predict_model.py
-
-import pandas as pd
 import joblib
 from alpha_vantage.timeseries import TimeSeries
 
