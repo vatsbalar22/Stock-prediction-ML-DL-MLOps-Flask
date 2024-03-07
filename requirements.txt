@@ -5,3 +5,7 @@ tensorflow
 flask
 pytest
 scikit-learn
+yfinance
+datetime
+streamlit
+ta
